@@ -4,8 +4,8 @@ import sys
 import json
 import datetime
 
-
-# usage: python3 parsedata.py [paper_file1] [paper_file2] ...
+# 帮助那些不会自己将原始txt转化为jsonArray的组
+# usage: python3 parsedata2All.py path_to_txt_dir
 
 def main():
     PATH = sys.argv[1]
@@ -55,7 +55,7 @@ def main():
         paper["references"] = references
         paper_list.append(paper)
 
-    with open("all/parsed_paper_list_" + last_dir +"_"+ datetime.datetime.now().strftime("%m-%d-%M-%S") + ".txt", "w", encoding='utf-8') as o:
+    with open("../raw/parsed_paper_list_" + last_dir +"_"+ datetime.datetime.now().strftime("%m-%d-%M-%S") + ".txt", "w", encoding='utf-8') as o:
         o.write(json.dumps(paper_list))
 
 
