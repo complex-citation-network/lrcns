@@ -6,17 +6,17 @@ import datetime
 
 # 帮助那些不会自己将原始txt转化为jsonArray的组
 # usage: python3 parsedata2All.py path_to_txt_dir
-# 0   author
-# 1   title
-# 2   journal
-# 3   year
-# 4   DOI
-# 5   month
-# 6   citations(google scholar)
-# 7   abstract
-# 8   keywords
-# 9   reference_count
-# 10  references
+# 1   author
+# 2   title
+# 3   journal
+# 4   year
+# 5   DOI
+# 6   month
+# 7   citations(google scholar)
+# 8   abstract
+# 9   keywords
+# 10   reference_count
+# 11  references
 
 def main():
 
@@ -27,6 +27,9 @@ def main():
     for addr in os.walk(PATH):
         for fname in addr[2]:
             if(fname[0]!='.' and fname.split('.')[-1]=="txt"):
+                if(addr[0].split('/')[-1][:-1]=="paper3" or addr[0].split('/')[-1][:-1]=="paper4"):
+                    print("Skip:" + str(addr[0]+"/"+fname))
+                    continue
                 addr_list.append(str(addr[0]+"/"+fname))
 
     paper_list = []
@@ -35,9 +38,9 @@ def main():
         author = []
         keywords = []
         references = []
-        with open(addr, encoding='utf-8') as f:
+        with open(addr, encoding='utf-8',errors='ignore') as f:
             strs = f.readlines()
-        print(addr)
+        print("Parse:" + addr)
         strs = [line.strip() for line in strs]
 
         for name in strs[0].split(','):
@@ -45,15 +48,25 @@ def main():
         paper["author"] = author
         paper["title"] = strs[1]
         paper["journal"] = strs[2]
-        paper["year"] = int(strs[3])
         paper["DOI"] = strs[4].replace("https://doi.org/", "")
-        paper["month"] = int(strs[5])
-        paper["citations(google scholar)"] = int(strs[6])
+        try:
+            paper["year"] = int(strs[3])
+            paper["month"] = int(strs[5])
+            paper["citations(google scholar)"] = int(strs[6])    
+            paper["reference_count"] = int(strs[9])
+        except Exception as e:
+            print("year" + str(strs[3]))
+            print("month"+str(strs[5]))
+            print("citations"+str(strs[6]))
+            print("references"+str(strs[9]))
+            print("ERROR IN "+ addr)
+            continue
+        
         paper["abstract"] = strs[7]
         for keyword in strs[8].split(','):
             keywords.append(keyword.strip(' '))
         paper["keywords"] = keywords
-        paper["reference_count"] = int(strs[9])
+        
         references_strs = strs[10:]
         for ref in references_strs:
             if len(ref) < 10:
@@ -65,8 +78,8 @@ def main():
         paper["references"] = references
         paper_list.append(paper)
 
-    with open("../raw/parsed_paper_list_" + last_dir +"_"+ datetime.datetime.now().strftime("%m-%d-%M-%S") + ".txt", "w", encoding='utf-8') as o:
-        o.write(json.dumps(paper_list))
+    with open("../raw/parsed_paper_list_" +"_"+ datetime.datetime.now().strftime("%m-%d-%M-%S") + ".txt", "w", encoding='utf-8') as o:
+        o.write(json.dumps(paper_list, ensure_ascii=False))
 
 
 if __name__ == '__main__':
