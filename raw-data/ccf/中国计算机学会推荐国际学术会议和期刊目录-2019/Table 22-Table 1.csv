@@ -1,0 +1,13 @@
+"中国计算机学会推荐国际学术会议
+（软件工程/系统软件/程序设计语言）",,,,,
+一、A 类,,,,,
+序号,会议简称,会议全称,出版社,网址,
+1,PLDI,ACM SIGPLAN Conference on Programming Language Design & Implementation,ACM,http://dblp.uni-trier.de/db/conf/pldi/,
+2,POPL,ACM SIGPLAN-SIGACT Symposium on Principles of Programming Languages,ACM,http://dblp.uni-trier.de/db/conf/popl/,
+3,FSE/ESEC,ACM SIGSOFT Symposium on the Foundation of Software Engineering/ European Software Engineering Conference,ACM,http://dblp.uni-trier.de/db/conf/sigsoft/,
+4,SOSP,ACM Symposium on Operating Systems Principles,ACM,http://dblp.uni-trier.de/db/conf/sosp/,
+5,OOPSLA,"Conference on Object-Oriented Programming Systems, Languages, and Applications",ACM,http://dblp.uni-trier.de/db/conf/oopsla/,
+6,ASE,International Conference on Automated Software Engineering,IEEE/ACM,http://dblp.uni-trier.de/db/conf/kbse/,
+7,ICSE,International Conference on Software Engineering,ACM/IEEE,http://dblp.uni-trier.de/db/conf/icse/,
+8,ISSTA,International Symposium on Software Testing and Analysis,ACM,http://dblp.uni-trier.de/db/conf/issta/,
+9,OSDI,USENIX Symposium on Operating Systems Design and Implementations,USENIX,http://dblp.uni-trier.de/db/conf/osdi/,

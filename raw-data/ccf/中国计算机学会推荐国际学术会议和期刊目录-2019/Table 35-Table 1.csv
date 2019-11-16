@@ -1,0 +1,13 @@
+二、B 类,,,,,
+序号,会议简称,会议全称,出版社,网址,
+1,SoCG,ACM Symposium on Computational Geometry,ACM,http://dblp.uni-trier.de/db/conf/compgeom/,
+2,ESA,European Symposium on Algorithms,Springer,http://dblp.uni-trier.de/db/conf/esa/,
+3,CCC,IEEE Conference on Computational Complexity,IEEE,http://dblp.uni-trier.de/db/conf/coco/,
+4,ICALP,"International Colloquium on Automata, Languages and
+Programming",Springer,http://dblp.uni-trier.de/db/conf/icalp/,
+5,CADE/IJCAR,"International Conference on Automated Deduction/International Joint Conference on
+Automated Reasoning",Springer,http://dblp.uni-trier.de/db/conf/cade/,
+6,CONCUR,International Conference on Concurrency Theory,Springer,http://dblp.uni-trier.de/db/conf/concur/,
+7,HSCC,"International Conference on Hybrid Systems:
+Computation and Control",Springer and ACM,http://dblp.uni-trier.de/db/conf/hybrid/,
+8,SAT,Theory and Applications of Satisfiability Testing,Springer,http://dblp.uni-trier.de/db/conf/sat/,

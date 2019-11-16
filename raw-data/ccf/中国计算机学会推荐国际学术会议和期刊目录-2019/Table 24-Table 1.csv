@@ -1,0 +1,34 @@
+三、C 类,,,,,
+序号,会议简称,会议全称,出版社,网址,
+1,PEPM,ACM SIGPLAN Workshop on Partial Evaluation and Program Manipulation,ACM,http://dblp.uni-trier.de/db/conf/pepm/,
+2,PASTE,ACMSIGPLAN-SIGSOFT Workshop on Program Analysis for Software Tools and Engineering,ACM,http://dblp.uni-trier.de/db/conf/paste/,
+3,APLAS,Asian Symposium on Programming Languages and Systems,Springer,http://dblp.uni-trier.de/db/conf/aplas/,
+4,APSEC,Asia-Pacific Software Engineering Conference,IEEE,http://dblp.uni-trier.de/db/conf/apsec/,
+5,EASE,Evaluation and Assessment in Software Engineering,ACM,http://dblp.uni-trier.de/db/conf/ease/,
+6,ICECCS,IEEE International Conference on Engineering of Complex Computer Systems,IEEE,http://dblp.uni-trier.de/db/conf/iceccs/,
+7,ICST,"IEEE International Conference on Software Testing, Verification and Validation",IEEE,http://dblp.uni-trier.de/db/conf/icst/,
+8,ISPASS,IEEE International Symposium on Performance Analysis of Systems and Software,IEEE,http://dblp.uni-trier.de/db/conf/ispass/,
+9,SCAM,"IEEE International Working Conference on Source Code
+Analysis and Manipulation",IEEE,http://dblp.uni-trier.de/db/conf/scam/,
+10,COMPSAC,International Computer Software and Applications Conference,IEEE,http://dblp.uni-trier.de/db/conf/compsac/,
+11,ICFEM,International Conference on Formal Engineering Methods,Springer,http://dblp.uni-trier.de/db/conf/icfem/,
+12,TOOLS,"International Conference on Objects, Models, Components,
+Patterns",Springer,http://dblp.uni-trier.de/db/conf/tools/index.html,
+13,SCC,International Conference on Service Computing,IEEE,http://dblp.uni-trier.de/db/conf/IEEEscc/,
+14,ICSSP,International Conference on Software and System Process,ACM,http://dblp.uni-trier.de/db/conf/ispw/,
+15,SEKE,"International Conference on Software Engineering and
+Knowledge Engineering",KSI,http://dblp.uni-trier.de/db/conf/seke/,
+16,QRS,"International Conference on Software Quality, Reliability and
+Security",IEEE,https://dblp.uni-trier.de/db/conf/qrs/,
+17,ICSR,International Conference on Software Reuse,Springer,http://dblp.uni-trier.de/db/conf/icsr/,
+18,ICWE,International Conference on Web Engineering,Springer,http://dblp.uni-trier.de/db/conf/icwe/,
+19,SPIN,International SPIN Workshop on Model Checking Software,Springer,http://dblp.uni-trier.de/db/conf/spin/index.html,
+20,ATVA,"International Symposium on Automated Technology for
+Verification and Analysis",Springer,http://dblp.uni-trier.de/db/conf/atva/,
+21,LOPSTR,"International Symposium on Logic-based Program Synthesis
+and Transformation",Springer,http://dblp.uni-trier.de/db/conf/lopstr/,
+22,TASE,"International Symposium on Theoretical Aspects of Software
+Engineering",IEEE,http://dblp.uni-trier.de/db/conf/tase/,
+23,MSR,Mining Software Repositories,IEEE/ACM,http://dblp.uni-trier.de/db/conf/msr/,
+24,REFSQ,Requirements Engineering: Foundation for Software Quality,Springer,http://dblp.uni-trier.de/db/conf/refsq/,
+25,WICSA,Working IEEE/IFIP Conference on Software Architecture,IEEE,http://dblp.uni-trier.de/db/conf/wicsa/,
