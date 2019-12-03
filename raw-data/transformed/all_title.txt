@@ -1,0 +1,402 @@
+Measuring Social Networks with Digital Photograph Collections
+CLOSE & CLOSER: DISCOVER SOCIAL RELATIONSHIP FROM PHOTO COLLECTIONS
+Close & Closer: Social Cluster and Closeness from Photo Collections
+Understanding Kin Relationships in a Photo
+Discovering Informative Social Subgraphs and Predicting Pairwise Relationships from Group Photos
+Who Do I Look Like? Determining Parent-Offspring Resemblance via Gated Autoencoders
+Graph-based Kinship Recognition
+Tri-Subject Kinship Verification: Understanding the Core of A Family
+Family Member Identification from Photo Collections
+Visual Kinship Recognition of Families in the Wild
+Learning deep compact similarity metric for kinship verification from face images
+Learning part-aware attention networks for kinship verification
+Learning Social Relation Traits from Face Images
+A Domain Based Approach to Social Relation Recognition
+Dual-Glance Model for Deciphering Social Relationships
+From Facial Expression Recognition to Interpersonal Relation Prediction
+Deep Reasoning with Knowledge Graph for Social Relationship Understanding
+An End-to-End Network for Generating Social Relationship Graphs
+SOCIAL RELATION RECOGNITION IN EGOCENTRIC PHOTOSTREAMS
+MULTI-GRANULARITY REASONING FOR SOCIAL RELATION RECOGNITION FROM IMAGES
+RoleNet: Movie Analysis from the Perspective of Social Networks
+Learning Relations among Movie Characters: A Social Network Perspective
+MINING ACTOR CORRELATIONS WITH HIERARCHICAL CONCURRENCE PARSING
+Automatic Social Network Construction from Movies Using Film-Editing Cues
+Character Relationship Analysis in Movies Using Face Tracks
+Active Clustering with Ensembles for Social Structure Extraction
+Social Network Analysis of TV Drama Characters via Deep Concept Hierarchies
+Social Network Construction of the Role Relation in Unstructured Data Based on Multi-view
+StoryRoleNet: Social Network Construction of Role Relationship in Video
+SRE-Net Model for Automatic Social Relation Extraction from Video
+Visual Transformation Aided Contrastive Learning for Video-based Kinship Verification
+Video-based kinship verification using distance metric learning
+Supervised Mixed Norm Autoencoder for Kinship Verification in Unconstrained Videos
+Audio-Visual Kinship Verification in the Wild
+Inferring Social Relations from Visual Concepts
+Social Role Discovery in Human Events
+Multi-stream Fusion Model for Social Relation Recognition from Videos
+Social Relation Recognition from Videos via Multi-scale Spatial-Temporal Reasoning
+TWO-STAGE MODEL FOR SOCIAL RELATIONSHIP UNDERSTANDING FROM VIDEOS
+Spatio-Temporal Attention Model Based on Multi-view for Social Relation Understanding
+Seeing People in Social Context: Recognizing People and Social Relationships
+Social Roles in Hierarchical Models for Human Activity Recognition
+Recognizing Proxemics in Personal Photos
+Finding Actors and Actions in Movies
+Joint Inference of Groups, Events and Human Roles in Aerial Videos
+Beyond Frontal Faces: Improving Person Recognition Using Multiple Cues
+Towards social interaction detection in egocentric photo-streams
+With Whom Do I Interact? Detecting Social Interactions in Egocentric Photo-streams
+Towards social pattern characterization in egocentric photo-streams
+Visual Social Relationship Recognition
+Social Relation Trait Discovery from Visual LifeLog Data
+Recognizing social relationships from an egocentric vision perspective
+Joint user-interest and social-influence emotion prediction for individuals
+Repost prediction incorporating time-sensitive mutual influence in social networks
+Link prediction in fuzzy social networks using distributed learning automata
+A Survey of Social Network Analysis Techniques and their Applications to Socially Aware Networking
+Retweeting Prediction Based on Social Hotspots and Dynamic Tensor Decomposition
+Detect potential relations by link prediction in multi-relational social networks
+User Vitality Ranking and Prediction in Social Networking Services: A Dynamic Network Perspective
+Influence Factorization for identifying authorities in Twitter
+Prediction of Personalized Rating by Combining Bandwagon Effect and Social Group Opinion: using Hadoop-Spark Framework
+Churn prediction and social neighbour influences for different types of user groups in virtual worlds
+A hybrid collaborative ﬁltering model for social inﬂuence prediction in event-based social networks
+ArnetMiner: Extraction and Mining of Academic Social Networks
+Community Preserving Network Embedding
+DeepInf: Social Influence Prediction with Deep Learning
+Information Diffusion in Online Social Networks
+Link Prediction in Complex Networks: A Survey
+Predicting the Social Inﬂuence of Upcoming Contents in Large Social Networks
+Scalable Learning of Collective Behavior Based on Sparse Social Dimensions
+Situating Social Influence Processes: Dynamic, Multidirectional Flows of Influence Within Social Networks
+Social structure of Facebook networks
+A mathematical approach to gauging influence by identifying shifts in the emotions of social media users
+A User Participation Behavior Prediction Model of Social Hotspots Based on Influence and Markov Random Field
+Exploiting geo-social correlations to improve pairwise ranking for point-of-interest recommendation
+Impact of context on social influence
+Influence in social networks A unified model？
+Information diffusion prediction in mobile social networks with hydrodynamic model
+Random Walk Based Inverse Influence Research in Online Social Networks
+Social Influence Algorithms and Emotion Classification for Prediction of Human Behavior A Survey
+Social restricted Boltzmann Machine Human behavior prediction in health social networks
+What Cuisine Do You Like- Improving Dining Preference Prediction through Physical Social Locations
+Who Influenced You? Predicting Retweet via Social Influence Locality
+Predicting the topic influence trends in social media with multiple models
+(Mis)Understanding Our Influence Over Others: A Review of the Underestimation-of-Compliance Effect
+Friendship influence on mobile behavior of location based social network users
+Predicting Influential Mobile-Subscriber Churners using Low-level User Features
+Forecasting participants of information diffusion on social networks with its applications
+Learning to Predict Reciprocity and Triadic Closure in Social Networks
+Retweeting Behavior Prediction Based on One-Class Collaborative Filtering in Social Networks
+Learning information diffusion model in a social network for predicting influence of nodes
+Predicting customer churn through interpersonal influence
+A Combined Collaborative Filtering Model for Social Inﬂuence Prediction in Event-Based Social Networks
+Joint user-interest and social-influence emotion prediction for individuals
+Personalized Tag Prediction via Social Influence in Social Networks
+Social Influence (Deep) Learning for Human Behavior Prediction
+Social Inﬂuence on Predictions of Simulated Stock Prices
+Social Network User Inﬂuence Dynamics Prediction
+Trafﬁc Clustering and Online Trafﬁc Prediction in Vehicle Networks: A Social Inﬂuence Perspective
+Who Should Share What? Item-level Social Inﬂuence Prediction for Users and Posts Ranking
+An intuitionistic fuzzy method for social network prediction problems
+Utility-Based Link Recommendation for Online Social Networks
+CensNet: Convolution with Edge-Node Switching in Graph Neural Networks
+Embedding Temporal Network via Neighborhood Formation
+Dynamic graph convolutional networks
+Dynamic Network Embedding by Modeling Triadic Closure Process
+Real-Time Streaming Graph Embedding Through Local Actions
+Exploiting Interaction Links for Node Classification with Deep Graph Neural Networks
+Learning to Represent the Evolution of Dynamic Graphs with Recurrent Models
+Triadic Closure Pattern Analysis and Prediction in Social Networks
+NeLSTM: A New Model for Temporal Link Prediction in Social Networks
+EvolveGCN: Evolving Graph Convolutional Networks for Dynamic Graphs
+A weakly-supervised factorization method with dynamic graph embedding
+Attributed Network Embedding for Learning in a Dynamic Environment
+Community Preserving Network Embedding
+DEEPEYE: Link Prediction in Dynamic Networks Based on Non-negative Matrix Factorization
+Fast Eigen-Functions Tracking on Dynamic Graphs
+High-Order Proximity Preserved Embedding for Dynamic Networks
+Learning Multi-granularity Dynamic Network Representations for Social Recommendation
+Modeling Large-Scale Dynamic Social Networks via Node Embeddings
+Scalable Temporal Latent Space Inference for Link Prediction in Dynamic Social Networks
+TIMERS: Error-Bounded SVD Restart on Dynamic Networks
+Dynamic Network Embedding : An Extended Approach for Skip-gram based Network Embedding
+Continuous-Time Dynamic Network Embeddings
+Embedding Temporal Network via Neighborhood Formation
+NetWalk: A Flexible Deep Embedding Approach for Anomaly Detection in Dynamic Networks
+DHNE: Network Representation Learning Method for Dynamic Heterogeneous Networks
+Dynamic Network Embedding via Incremental Skip-gram with Negative Sampling
+EpiRep: Learning Node Representations through Epidemic Dynamics on Networks
+dynnode2vec: Scalable Dynamic Network Embedding
+Toward Time-Evolving Feature Selection on Dynamic Networks
+A Deep Learning Approach to Link Prediction in Dynamic Networks
+dyngraph2vec: Capturing Network Dynamics using Dynamic Graph Representation Learning
+TimeCrunch: Interpretable Dynamic Graph Summarization
+Deep Dynamic Network Embedding for Link Prediction
+Predicting Dynamic Embedding Trajectory in Temporal Interaction Networks
+Streaming Link Prediction on Dynamic Attributed Networks
+Restricted Boltzmann Machine-Based Approaches for Link Prediction in Dynamic Networks
+Dynamic Network Embedding by Semantic Evolution
+DepthLGP: Learning Embeddings of Out-of-Sample Nodes in Dynamic Networks
+Node Embedding over Temporal Graphs
+Deep Learning for Link Prediction in Dynamic Networks Using Weak Estimators
+Knowledge Graph Embedding: A Survey of Approaches and Applications
+Freebase: A collaboratively created graph database for structuring human knowledge
+DBpedia: A large-scale multilingual knowledge base extracted from Wikipedia
+YAGO: A core of semantic knowledge
+Toward an architecture for never-ending language learning
+Open question answering with weakly supervised embedding models
+Question answering with subgraph embeddings
+A three-way model for collective learning on multi-relational data
+Translating embeddings for modeling multi-relational data
+Knowledge graph embedding by translating on hyperplanes
+Learning entity and relation embeddings for knowledge graph completion
+A latent factor model for highly multi-relational data
+A semantic matching energy function for learning with multi-relational data
+Reasoning with neural tensor networks for knowledge base completion
+Connecting language and knowledge bases with embedding models for relation extraction
+Relation extraction with matrix factorization and universal schemas
+Factorizing YAGO: Scalable machine learning for linked data
+Representation learning of knowledge graphs with hierarchical types
+Modeling relation paths for representation learning of knowledge bases
+Traversing knowledge graphs in vector space
+Knowledge graph and text jointly embedding
+Representation learning of knowledge graphs with entity descriptions
+Text-enhanced representation learning for knowledge graph
+Jointly embedding knowledge graphs and logical rules
+Injecting Logical Background Knowledge into Embeddings for Relation Extraction
+Learning to represent knowledge graphs with Gaussian embedding
+TransG: A Generative Model for Knowledge Graph Embedding
+Locally Adaptive Translation for Knowledge Graph Embedding
+Knowledge graph embedding with diversity of structures
+TorusE: Knowledge graph embedding on a lie group
+Improving knowledge graph embedding using simple constraints
+Knowledge graph embedding with iterative guidance from soft rules
+NSCaching: Simple and efficient negative sampling for knowledge graph embedding
+From Knowledge Graph Embedding to Ontology Embedding? An Analysis of the Compatibility between Vector Space Representations and Rules
+On2Vec: Embedding-based Relation Prediction for Ontology Population
+Universal Representation Learning of Knowledge Bases by Jointly Embedding Instances and Ontological Concepts
+Holographic embeddings of knowledge graphs
+Effective blending of two and three-way interactions for modeling multi-relational data
+Embedding entities and relations for learning and inference in knowledge bases
+Complex embeddings for simple link prediction
+Analogical inference for multi-relational embeddings
+Knowledge vault: A web-scale approach to probabilistic knowledge fusion
+Probabilistic reasoning via deep learning: Neural association models
+Encoding temporal information for time-aware link prediction
+Predicting the co-evolution of event and knowledge graphs
+Know-evolve: Deep temporal reasoning for dynamic knowledge graphs
+GAKE: Graph aware knowledge embedding
+Link prediction in multi-relational graphs using additive models
+Collaborative Knowledge Base Embedding for Recommender Systems
+Multi-view Knowledge Graph Embedding for Entity Alignment
+Learning Attention-based Embeddings for Relation Prediction in Knowledge Graphs
+Relation Embedding with Dihedral Group in Knowledge Graph
+Estimating Node Importance in Knowledge Graphs Using Graph Neural Networks
+Cross-lingual Knowledge Graph Alignment via Graph Matching Neural Network
+Learning to Exploit Long-term Relational Dependencies in Knowledge Graphs
+Rethinking Knowledge Graph Propagation for Zero-Shot Learning
+KGAT: Knowledge Graph Attention Network for Recommendation
+Knowledge Graph Convolutional Networks for Recommender Systems with Label Smoothness Regularization
+Text Generation from Knowledge Graphs with Graph Transformers
+Understanding Attention and Generalization in Graph Neural Networks
+An embedding approach to anomaly detection
+Deep neural networks for learning graph representations
+Graph attention networks
+arXiv preprint arXiv:1609.02907
+A comprehensive survey on graph neural networks
+7th ACM international conference on Web search and data mining. ACM, 2014: 393-402
+Structural Deep Network Embedding
+2017 SIAM international conference on data mining
+Embedding of embedding (eoe): Joint embedding for coupled heterogeneous networks
+LINE: Large-scale Information Network Embedding
+Node2vec: Scalable feature learning for networks
+Grarep: Learning graph representations with global structural information
+A comprehensive algorithm for evaluating node influences in social networks based on preference analysis and random walk
+A local random walk model for complex networks based on discriminative feature combinations
+ARROW: Approximating Reachability Using Random Walks Over Web-Scale Graphs
+Estimating Walk-Based Similarities Using Random Walk
+Local low-rank matrix approximation with preference selection of anchor points
+Random Walk Decay Centrality
+Random walks on graphs: new bounds on hitting, meeting, coalescing and returning
+Selection of random walkers that optimizes the global mean first-passage time for search in complex networks
+A Survey on Network Embedding
+Graph Representation Ensemble Learning
+Quantification of network structural dissimilarities
+Fast graph representation learning with PyTorch Geometric
+Structural Deep Network Embedding
+GraRep: Learning Graph Representations with Global Structural Information
+Graph Embedding and Extensions: A general framework for dimensionality reduction
+Learning latent representations of nodes for classifying in heterogeneous social networks
+Embedding of Embedding (EOE): Joint Embedding for Coupled Heterogeneous Networks
+SNAP: A General Purpose Network Analysis and Graph Mining Library
+Max-margin deepwalk: Discriminative learning of network representation.
+Support vector machines
+Probabilistic latent document network embedding
+Relational topic models for document networks
+Network representation learning with rich text information
+Inductive matrix completion for predicting gene–disease associations
+A general framework for content-enhanced network representation learning
+Tri-party deep network representation
+Label informed attributed network embedding
+Spectral graph theory
+Information diffusion in online social networks: a survey
+Information Diffusion Detection Method Based on Large-scale Event Graph
+Community Detection in Social Networks Using Information Diffusion
+The Empirical Analysis of Micro-blog Information Flow Based on Complex Network Theory
+Information diffusion backbones in temporal networks
+Coupling dynamics of epidemic spreading and information diffusion on complex networks
+Dynamics of rumor spreading in mobile social networks
+Genetic Algorithm with Local Search for Community Detection in Large-scale Complex Networks
+The research of information dissemination model on online social network
+Analyzing Information Dissemination on Social Networks
+Inferring the diffusion and evolution of topics in social communities
+Sina Microblog Information Diffusion Analysis and Prediction
+Information Diffusion and External Influence in Networks
+Identifying Influential Spreaders Based on Network Community Structure
+Cost-effective Outbreak Detection in Networks
+A Survey for Rumor Propagation Models
+Information Diffusion Path Inferring Algorithm Based on Communication Data
+Review on Rumor Detection of Online Social Networks
+Simulation Analysis of Viral-Style Information Diffusion in Small World Networks
+Information diffusion extended model and stability based on escape-quarantined mechanism
+在线社会网络中信息扩散
+社交网络信息传播的博弈模型
+基于微博的安全事件实时监测框架研究
+DiffRank：一种新型社会网络信息传播检测算法
+社交网络中信息传播预测的研究综述
+Link Recommendation for Promoting Information Diffusion in Social Networks
+Study on Information Diffusion Analysis in Social Networks and Its Applications
+Detecting Rumors from Microblogs with Recurrent Neural Networks
+Influence analysis in social networks: A survey
+基于贝叶斯模型的微博网络水军识别算法研究
+Meta-path based multi-network collective link prediction
+Correlating User Mining Methods for Social Network integration:A Survey
+BL-MNE: Emerging heterogeneous social network embedding through broad learning with aligned autoencoder
+Social Network Fusion and Mining: A Survey
+Transferring Heterogeneous Links across Location-Based Social Networks
+Inferring Anchor Links across Multiple Heterogeneous Social Networks
+Meta-path based Anchor Link Inference in Multiple Partially Aligned Social Networks
+Aligning Users Across Social Networks Using Network Embedding
+Data Fusion of Diverse Data Sources: Enrich Spatial Data Knowledge Using HINs
+A Survey of Heterogeneous Information Network Analysis
+Deep Collaborative Filtering with Multi-Aspect Information in Heterogeneous Networks
+HAHE: Hierarchical Attentive Heterogeneous Information Network Embedding
+PME: Projected Metric Embedding on Heterogeneous Networks for Link Prediction
+Structural Deep Embedding for Hyper-Networks
+SHINE: Signed Heterogeneous Information Network Embedding for Sentiment Link Prediction
+SHINE: Signed Heterogeneous Information Network Embedding for Sentiment Link Prediction
+Network Embedding as Matrix Factorization: Unifying DeepWalk, LINE, PTE, and node2vec
+Multi-Dimensional Network Embedding with Hierarchical Structure
+Easing Embedding Learning by Comprehensive Transcription of Heterogeneous Information Networks
+Arbitrary-Order Proximity Preserved Network Embedding
+NetWalk: A Flexible Deep Embedding Approach for Anomaly Detection in Dynamic Networks
+Deep Variational Network Embedding in Wasserstein Space
+Embedding Temporal Network via Neighborhood Formation
+Hierarchical Taxonomy Aware Network Embedding
+Deep Recursive Network Embedding with Regular Equivalence
+Content to Node: Self-Translation Network Embedding
+Semi-supervised Learning over Heterogeneous Information Networks by Ensemble of Meta-graph Guided Random Walks
+Are Meta-Paths Necessary? Revisiting Heterogeneous Graph Embeddings
+HeteroMed: Heterogeneous Information Network for Medical Diagnosis
+Abnormal Event Detection via Heterogeneous Information Network Embedding
+Co-Regularized Deep Multi-Network Embedding
+On Exploring Semantic Meanings of Links for Embedding Social Networks
+RaRE: Social Rank Regulated Large-scale Network Embedding
+HINE: Heterogeneous Information Network Embedding
+Structural Deep Network Embedding
+AspEm: Embedding Learning by Aspects in Heterogeneous Information Networks
+Task-Guided and Path-Augmented Heterogeneous Network Embedding for Author Identification
+Embedding of Embedding (EOE): Joint Embedding for Coupled Heterogeneous Networks
+Learning Tree-Structured Detection Cascades for Heterogeneous Networks of Embedded Devices
+Clustering Embedded Approaches for Efficient Information Network Inference
+Learning Community Embedding with Community Detection and Node Embedding on Graphs
+A Multiobjective Evolutionary Algorithm Based on Similarity for Community Detection from Signed Social Networks
+Complex Network Community Detection by Improved Nondominated Sorting Genetic Algorithm
+A three-stage algorithm on community detection in social networks
+User interaction-oriented community detectin based on cascading analysis
+Community Focusing: Yet Another Query-Dependent Community Detection
+Advancing community detection using Keyword Attribute Search
+Community detection in networks: A user guide
+Dynamic Topical Community Detection in Social Network: A Generative Model Approach
+Null models for community detection in spatially embedded, temporal networks
+Community detection based on information dynamics
+High-performance community detection in social networks using a deep transitive autoencoder
+Hidden Community Detection in Social Networks
+A Homophily-Free Community Detection Framework for Trajectories with Delayed Responses
+Community detection and visualization of networks with the map equation framework
+An efficient community detection method based on rank centrality
+Community detection in large‐scale networks: a survey and empirical evaluation
+Community Detection with Edge Content in Social Media Networks
+Effective community search for large attributed graphs
+Subspace Based Network Community DetectionUsing Sparse Linear Coding
+A divide and agglomerate algorithm for community detection in social networks
+An adaptive granulation algorithm for community detection based on improved label propagation
+Community Focusing: Yet Another Query-Dependent Community Detection
+Community Detection in Networks with Node Attributes
+Community detection in networks: A multidisciplinary review
+Benchmark graphs for testing community detection algorithms
+Adapting Community Detection Algorithms for Disease Module Identification in Heterogeneous Biologucal Networks
+Community detection based on human social behavior
+Overlapping Community Detection Using Neighborhood-Inflated Seed Expansion
+Community detection algorithms: A comparative analysis
+Community detection, link prediction, and layer interdependence in multilayer networks
+Dynamic Social Community Detection and Its Applications
+Communities detection in social network based on local edge centrality
+Exploring the limits of community detection strategies in complex networks
+Community detection in civil society online networks: Theoretical guide and empirical assessment
+Neiwalk: community discovery in dynamic content-based networks
+Community detection based on a semantic network
+Index-based densest clique percolation community search in networks.
+"Nonnegative matrix factorization with mixed hypergraph regularization for community detection"
+"Incorporating implicit link preference into overlapping community detection"
+Collaborative Memory Network for Recommendation Systems
+Collaborative variational autoencoder for recommender systems.
+Collaborative Deep Learning for Recommender Systems
+Variational Autoencoders for Collaborative Filtering
+Graph Convolutional Neural Networks for Web-Scale Recommender Systems
+Geometric Matrix Completion with Recurrent Multi-Graph Neural Networks
+STAR-GCN: Stacked and Reconstructed Graph Convolutional Networks for Recommender Systems
+Binarized Collaborative Filtering with Distilling Graph Convolutional Networks
+Graph Contextualized Self-Attention Network for Session-based Recommendation
+Session-based Recommendation with Graph Neural Networks
+Geometric Hawkes Processes with Graph Convolutional Recurrent Neural Networks
+Knowledge-aware Graph Neural Networks with Label Smoothness Regularization for Recommender Systems
+Exact-K Recommendation via Maximal Clique Optimization
+KGAT: Knowledge Graph Attention Network for Recommendation
+Knowledge Graph Convolutional Networks for Recommender Systems
+Dual Graph Attention Networks for Deep Latent Representation of Multifaceted Social Effects in Recommender Systems
+Graph Neural Networks for Social Recommendation
+A Neural Influence Diffusion Model for Social Recommendation
+Session-based Social Recommendation via Dynamic Graph Attention Networks
+Neural Graph Collaborative Filtering
+Meta-Graph Based Recommendation Fusion over Heterogeneous Information Networks
+An End-to-End Neighborhood-based Interaction Model for Knowledge-enhanced Recommendation
+Local and Global Information Fusion for Top-N Recommendation in Heterogeneous Information Network
+Leveraging Meta-path based Context for Top-N Recommendation with A Neural Co-Attention Model
+Metapath-guided Heterogeneous Graph Neural Network for Intent Recommendation
+Deep Learning for Matching in Search and Recommendation
+Heterogeneous Information Network Embedding for Recommendation
+Graph Convolutional Matrix Completion
+SemRec: A Personalized Semantic Recommendation Method based on Weighted Heterogeneous Information Networks
+Aspect-Level Deep Collaborative Filtering via Heterogeneous Information Networks
+Explainable Reasoning over Knowledge Graphs for Recommendation
+A Simple Convolutional Generative Network for Next Item Recommendation
+Adversarial Personalized Ranking for Recommendation
+Attentive Group Recommendation
+Aesthetic-based Clothing Recommendation
+TEM: Tree-enhanced Embedding Model for Explainable Recommendation
+Discrete Factorization Machines for Fast Feature-based Recommendation
+Attentive Collaborative Filtering: Multimedia Recommendation with Item- and Component-Level Attention
+NAIS: Neural Attentive Item Similarity Model for Recommendation
+Collaborative Recurrent Autoencoder: Recommend while Learning to Fill in the Blanks
+Complex Embeddings for Simple Link Prediction
+DeepWalk: Online Learning of Social Representations
+EMBEDDING ENTITIES AND RELATIONS FOR LEARNING AND INFERENCE IN KNOWLEDGE BASES
+GraphVite:A High-Performance CPU-GPU Hybrid System for Node Embedding
+Visualizing Large-scale and High-dimensional Data
+LINE: Large-scale Information Network Embedding
+node2vec: Scalable Feature Learning for Networks
+ROTATE: KNOWLEDGE GRAPH EMBEDDING BY RELATIONAL ROTATION IN COMPLEX SPACE
+Simple embedding for link prediction in knowledge graphs
+Translating Embeddings for Modeling Multi-relational Data

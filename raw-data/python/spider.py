@@ -2,7 +2,7 @@
 # @Author: Halloweenwx
 # @Date:   2019-11-14 19:58:51
 # @Last Modified by:   Halloweenwx
-# @Last Modified time: 2019-11-16 14:22:38
+# @Last Modified time: 2019-11-16 16:10:34
 
 import re
 from urllib import parse
@@ -57,7 +57,7 @@ def geturl(title_arr):
             driver.execute_script("document.querySelector(\"#saveOptions\").selectedIndex = 3")
 
             driver.find_elements_by_xpath("//*[@id=\"exportButton\"]")[0].click()
-            
+             
             # driver.find_elements_by_xpath("//*[@id=\"exportButton\"]")[0].click()
             # url1 = driver.current_url 
             res["wos"] = True
