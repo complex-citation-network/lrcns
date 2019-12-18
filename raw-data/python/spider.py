@@ -2,7 +2,7 @@
 # @Author: Halloweenwx
 # @Date:   2019-11-14 19:58:51
 # @Last Modified by:   Halloweenwx
-# @Last Modified time: 2019-11-16 16:10:34
+# @Last Modified time: 2019-12-04 07:32:55
 
 import re
 from urllib import parse
@@ -77,7 +77,7 @@ def geturl(title_arr):
 
 def main():
     res_arr = []
-    with open('../transformed/title.txt','r') as f:
+    with open('../transformed/all_title.txt','r') as f:
         title_arr = json.load(f)
 
         print(geturl(title_arr))
